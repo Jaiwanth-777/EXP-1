@@ -45,32 +45,20 @@ CIRCUIT DIAGRAM:
 
 a.   KVL:
  
-
-
-b.  KCL:
- 
-
-Calculation:
-
-a.   KVL:
- 
+![491949337-23f3e5b8-33b6-4132-b26b-cb708c67c30b](https://github.com/user-attachments/assets/13bc08c4-d6c7-445c-a4b0-29854c255ef7)
 
 
 b.  KCL:
 
+ ![491955650-6a5ecc91-6d24-49e0-9c31-b11bda9b06d9](https://github.com/user-attachments/assets/3f6ba9bb-8b6b-455a-8537-5807489ae49c)
 
 
-
-Tabulation:
-
-a.   KVL:
- 
-
-
-b.  KCL:
-
-
+Calculations and Tabulations:
+![WhatsApp Image 2025-09-28 at 22 41 53_4765e9f9](https://github.com/user-attachments/assets/e3545e00-f6cd-467a-a291-ac9e1bf7ec6f)
+![WhatsApp Image 2025-09-28 at 22 41 53_44df0b73](https://github.com/user-attachments/assets/a8ef78aa-6173-4599-883b-1ab9eab9d85a)
+![WhatsApp Image 2025-09-28 at 22 41 57_0ddbb075](https://github.com/user-attachments/assets/87f491f1-dab4-4086-837b-57d8c48be5b7)
+![WhatsApp Image 2025-09-28 at 22 42 26_07fbc201](https://github.com/user-attachments/assets/d140cd81-d7c5-4c2d-956e-16ba020a8ece)
+![WhatsApp Image 2025-09-28 at 22 43 08_62a69cbd](https://github.com/user-attachments/assets/5fd64b51-fa21-4ee1-b4e3-96ff35577429)
 
 RESULT:
-
 Thus, for the given circuit, Kirchhoff’s Laws, (a) KVL and (b) KCL are proved.
