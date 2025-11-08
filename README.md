@@ -1,26 +1,56 @@
 # EXP-1
-EXPT NO: 1	VERIFICATION OF KIRCHHOFF’S LAWS
+EXPT NO: 
+
+1	VERIFICATION OF KIRCHHOFF’S LAWS
 AIM
+
+
 a.   To verify Kirchhoff’s Voltage Law (KVL) for the given circuit. 
+
+
 b.   To verify Kirchhoff’s Current Law (KCL) for the given circuits.
 
 APPARATUS REQUIRED:
+
+
 S.No.	Components	Range	Quantity
+
+
 1	Resistor	1kΩ	3
+
+
 2	Voltmeter (DC)	0-30V	3
+
+
 3	Ammeter (DC)	(0-200)mA	3
+
+
 4	Bread Board		1
+
+
 5	Regulated Power Supply	(0-30)V	1
 6	Connecting wires		As required
 
 THEORY:
+
+
 KVL: Kirchhoff's voltage law states that the sum of the voltage differences around any closed loop in a circuit must be zero. A loop in a circuit is any path that ends at the same point at which it starts.
-KCL:
+
+
+KCL: Kirchhoff's Current Law (KCL) Kirchhoff's Current Law states that the algebraic sum of the currents entering and leaving a node is equal to zero. By convention, currents entering the node are positive, and those leaving a node are negative
+
+
 Kirchhoff's Current Law (KCL) Kirchhoff's Current Law states that the algebraic sum of the currents entering and leaving a node is equal to zero. By convention, currents entering the node are positive, and those leaving a node are negative
 
 
+
+
 PROCEDURE:
+
+
 a.   KVL:
+
+
 1.   Connect as per the circuit diagram.
 2.   Check if the RPS voltage is set to zero voltage.
 3.   Check all the meters for null position.
@@ -38,27 +68,32 @@ b.  KCL:
 5.   Set the input voltage to a value between 0V to 30V.
 6.   Record the voltage values shown in the ammeter connected to each resistor.
 7.   Take readings for different values of input voltage and tabulate them. 
+
+
 CIRCUIT DIAGRAM:
 
-CIRCUIT DIAGRAM:
+Calculation:
 
+Tabulation:
+![1](https://github.com/user-attachments/assets/c3b0609f-177c-40fa-bc8a-73ae64a2ad44)
 
-a.   KVL:
- 
-![491949337-23f3e5b8-33b6-4132-b26b-cb708c67c30b](https://github.com/user-attachments/assets/13bc08c4-d6c7-445c-a4b0-29854c255ef7)
+![2](https://github.com/user-attachments/assets/b99cb352-72af-4430-a266-87cdff90dba8)
 
+![3](https://github.com/user-attachments/assets/fcbe6e7a-994c-42fb-b9a7-5c85b946a52c)
 
-b.  KCL:
+![4](https://github.com/user-attachments/assets/3eef1cc7-b989-4a4d-b268-8cf6c05ee362)
 
- ![491955650-6a5ecc91-6d24-49e0-9c31-b11bda9b06d9](https://github.com/user-attachments/assets/3f6ba9bb-8b6b-455a-8537-5807489ae49c)
+![5](https://github.com/user-attachments/assets/b852a693-f540-4962-8420-7c9ccd24751b)
 
+![6](https://github.com/user-attachments/assets/6fda7035-ced0-4b92-8126-157dbd37695a)
 
-Calculations and Tabulations:
-![WhatsApp Image 2025-09-28 at 22 41 53_4765e9f9](https://github.com/user-attachments/assets/e3545e00-f6cd-467a-a291-ac9e1bf7ec6f)
-![WhatsApp Image 2025-09-28 at 22 41 53_44df0b73](https://github.com/user-attachments/assets/a8ef78aa-6173-4599-883b-1ab9eab9d85a)
-![WhatsApp Image 2025-09-28 at 22 41 57_0ddbb075](https://github.com/user-attachments/assets/87f491f1-dab4-4086-837b-57d8c48be5b7)
-![WhatsApp Image 2025-09-28 at 22 42 26_07fbc201](https://github.com/user-attachments/assets/d140cd81-d7c5-4c2d-956e-16ba020a8ece)
-![WhatsApp Image 2025-09-28 at 22 43 08_62a69cbd](https://github.com/user-attachments/assets/5fd64b51-fa21-4ee1-b4e3-96ff35577429)
+![7](https://github.com/user-attachments/assets/d23f23b7-eba4-453d-bbe7-f964a761eba7)
+
+![WhatsApp Image 2025-09-10 at 08 48 01_c19ae12d](https://github.com/user-attachments/assets/e6ff2b5c-c128-4f6a-9fa5-645b7544b2b6)
+
+![WhatsApp Image 2025-09-10 at 09 00 45_4390d1ec](https://github.com/user-attachments/assets/dcc82bc1-d186-40e7-a066-5ad7bb462ae7)
+
 
 RESULT:
+
 Thus, for the given circuit, Kirchhoff’s Laws, (a) KVL and (b) KCL are proved.
