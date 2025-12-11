@@ -75,19 +75,11 @@ CIRCUIT DIAGRAM:
 Calculation:
 
 Tabulation:
-![1](https://github.com/user-attachments/assets/c3b0609f-177c-40fa-bc8a-73ae64a2ad44)
+![1](https://github.com/user-attachments/assets/fa81c7ca-5ae1-456d-9b4c-368340a6e539)
+![2](https://github.com/user-attachments/assets/8032a1bb-bb26-4354-8cba-fc3de33975e8)
+![3](https://github.com/user-attachments/assets/736d4c04-6803-4afa-8837-555768fd9c26)
+![4](https://github.com/user-attachments/assets/abbca89c-0599-4852-bdef-672b2799b30f)
 
-![2](https://github.com/user-attachments/assets/b99cb352-72af-4430-a266-87cdff90dba8)
-
-![3](https://github.com/user-attachments/assets/fcbe6e7a-994c-42fb-b9a7-5c85b946a52c)
-
-![4](https://github.com/user-attachments/assets/3eef1cc7-b989-4a4d-b268-8cf6c05ee362)
-
-![5](https://github.com/user-attachments/assets/b852a693-f540-4962-8420-7c9ccd24751b)
-
-![6](https://github.com/user-attachments/assets/6fda7035-ced0-4b92-8126-157dbd37695a)
-
-![7](https://github.com/user-attachments/assets/d23f23b7-eba4-453d-bbe7-f964a761eba7)
 
 ![WhatsApp Image 2025-09-10 at 08 48 01_c19ae12d](https://github.com/user-attachments/assets/e6ff2b5c-c128-4f6a-9fa5-645b7544b2b6)
 
